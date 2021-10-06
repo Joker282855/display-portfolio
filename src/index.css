@@ -61,6 +61,10 @@ header nav ul li a:hover {
 header nav ul li a:focus {
   color: var(--cyan);
 }
+.description {
+  height: 60%;
+  margin: 10px;
+}
 .me {
   width: 100%;
   margin: 1.5%;
@@ -146,6 +150,7 @@ header nav ul li a:focus {
 footer {
   color: var(--light);
   background-color: var(--dark);
+  margin: 25px 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;  
