@@ -1,11 +1,9 @@
-import './App.css';
+import React from 'react';
 import Nav from './components/Nav';
-
-
 
 function App() {
   return (
-    <div clssName="my-5">
+    <div className="my-5">
       <Nav></Nav>
       <main>
       </main>

@@ -13,22 +13,22 @@ function Nav() {
             <nav>
                 <ul>
                     <li className="mx-2">
-                        <Link to="/about">About Me</Link>
+                        <Link to='/'>About Me</Link>
                     </li>
                     <li>
-                        <Link to="/contact">Contact</Link>
+                        <Link to='/contact'>Contact</Link>
                     </li>
                     <li>
-                        <Link to="/portfolio">Portfolio</Link>
+                        <Link to='/portfolio'>Portfolio</Link>
                     </li>
                     <li>
-                        <Link to="/resume">Resume</Link>
+                        <Link to='/resume'>Resume</Link>
                     </li>
                 </ul>
             </nav>
         </header>
         <Switch>
-            <Route path='/about'>
+            <Route path exact='/'>
                 <About></About>
             </Route>
 
@@ -40,7 +40,7 @@ function Nav() {
                 <Portfolio></Portfolio>
             </Route>
 
-            <Route path="/resume">
+            <Route path='/resume'>
                 <Resume></Resume>
             </Route>
         </Switch>

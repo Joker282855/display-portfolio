@@ -1,8 +1,6 @@
 import React from 'react';
 import selfPortrait from "../../assets/me/self-portrait2.jpg"
 
-import "../../../src/index.css"
-
 function About() {
     return (
         <section id="about-me" className="my-5">
