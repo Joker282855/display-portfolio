@@ -1,15 +1,19 @@
 import './App.css';
-import Main from './components/Main';
 import Nav from './components/Nav';
+
 
 
 function App() {
   return (
-    <div>
+    <div clssName="my-5">
       <Nav></Nav>
       <main>
-        <Main></Main>
       </main>
+      <footer>
+        <p>
+          Made with Love By Josh Jackson
+        </p>
+      </footer>
     </div>
   );
 }
