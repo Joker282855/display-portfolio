@@ -5,7 +5,7 @@ import ContactForm from '../Contact';
 import Portfolio from '../Portfolio';
 import Resume from '../Resume';
 
-function Nav() {
+function Header() {
     return (
     <Router>
         <header>
@@ -56,4 +56,4 @@ function Nav() {
     );
 }
 
-export default Nav;
+export default Header;
