@@ -33,4 +33,10 @@ I was able to achieve the majority of the tasks besides one with the mouse movin
 The future development of this application will be going over the styling. I still have two assingments to turn in before my extension ends on Sunday for the boootcamp. I would also like to attempt getting the icons on the portfolio.
 
 ## Screenshot:
-<img >
+<img src="./images/2021-10-07.png" alt="Screenshot of Application" />
+
+## Link:
+<a href="https://joker282855.github.io/display-portfolio/">Application Link</a>
+
+## Contributor:
+Made with Love By Josh Jackson
