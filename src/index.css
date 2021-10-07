@@ -162,8 +162,8 @@ textarea {
   font-size: 16px;
 }
 footer {
-  color: var(--light);
-  background-color: var(--dark);
+  color: var(--blue);
+  background-color: var(--light);
   margin: 25px 0;
   display: flex;
   flex-wrap: wrap;
