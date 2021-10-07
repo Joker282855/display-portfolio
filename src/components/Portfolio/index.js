@@ -12,7 +12,7 @@ function Portfolio() {
             <br></br>
             <h2>Portfolio Gallery</h2>
             <br></br>
-            <div class="gallery">
+            <div className="gallery">
                 <a href="https://joker282855.github.io/Password/">
                     <img title="Password" alt="Password generator" src={run} sytle={{ width: "5%" }} />
                     <a href="https://github.com/Joker282855/Password">Github Repository</a>
