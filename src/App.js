@@ -8,9 +8,11 @@ function App() {
       <main>
       </main>
       <footer>
-        <p>
-          Made with Love By Josh Jackson
-        </p>
+        <div>
+          <a href="https://github.com/Joker282855">Github</a>
+          <a href="https://www.linkedin.com/feed/">LinkedIn</a>
+          <a href="https://twitter.com/home">Twitter</a>
+        </div>
       </footer>
     </div>
   );
