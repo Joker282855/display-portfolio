@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, NavLink } from "react-router-dom";
 import About from '../About-Me';
-import Contact from '../Contact';
+import ContactForm from '../Contact';
 import Portfolio from '../Portfolio';
 import Resume from '../Resume';
 
@@ -41,7 +41,7 @@ function Nav() {
             </Route>
 
             <Route path='/contact'>
-                <Contact></Contact>
+                <ContactForm></ContactForm>
             </Route>
 
             <Route path='/portfolio'>

@@ -4,7 +4,9 @@ import selfPortrait from "../../assets/me/self-portrait2.jpg"
 function About() {
     return (
         <section id="about-me" className="my-5">
+            <br></br>
             <img src={selfPortrait} className="my-2" style={{ width: "20%" }} alt="Myself in a blue suit" />
+            <br></br>
             <h1 id="about">About Me</h1>
             <p>I was born and raised in Provo, Utah. I have four older brothers and one older sister
                 which makes me the youngest member in my family. All of my siblings are married and 
