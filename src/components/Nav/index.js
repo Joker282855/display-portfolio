@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route, NavLink } from "react-router-dom";
 import About from '../About-Me';
 import Contact from '../Contact';
 import Portfolio from '../Portfolio';
@@ -13,22 +13,30 @@ function Nav() {
             <nav>
                 <ul>
                     <li className="mx-2">
-                        <Link to='/'>About Me</Link>
+                        <NavLink to='/display-portfolio' className="style-nav" activeClassName="style-nav-active">
+                            About Me
+                        </NavLink>
                     </li>
                     <li>
-                        <Link to='/contact'>Contact</Link>
+                        <NavLink to='/contact' className="con-nav" activeClassName="con-nave-active">
+                            Contact
+                        </NavLink>
                     </li>
                     <li>
-                        <Link to='/portfolio'>Portfolio</Link>
+                        <NavLink to='/portfolio' className="port-nav" activeClassName="port-nav-active">
+                            Portfolio
+                        </NavLink>
                     </li>
                     <li>
-                        <Link to='/resume'>Resume</Link>
+                        <NavLink to='/resume' className="res-nav" activeClassName="res-nav-active">
+                            Resume
+                        </NavLink>
                     </li>
                 </ul>
             </nav>
         </header>
         <Switch>
-            <Route path exact='/'>
+            <Route path='/display-portfolio'>
                 <About></About>
             </Route>
 

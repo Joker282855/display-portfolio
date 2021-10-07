@@ -58,8 +58,17 @@ header nav ul li a:hover {
   text-shadow: none;
   border-radius: 15px;
 }
-header nav ul li a:focus {
-  color: var(--cyan);
+.style-nav-active {
+  color:blueviolet;
+}
+.con-nave-active {
+  color:blueviolet;
+}
+.port-nav-active {
+  color:blueviolet;
+}
+.res-nav-active {
+  color:blueviolet;
 }
 .me {
   width: 100%;
