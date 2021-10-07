@@ -12,9 +12,11 @@ function About() {
                 more on the way. 
             </p>
             <br></br>
-            <p> Hobbies include coding, reading books, snow skiing, and spending time with my family. I will have six months of coding experience
-                by September. I have been on the deans list every single semester at Utah Valley University
-                and will be graduating in Spring 2022 with a Bacherlors in Mathematics.
+            <p> Hobbies include coding, reading books, snow skiing, and spending time with my family. I have six months of coding experience
+                and have been on a transformative journey in leanring how to code. I have been on the deans list every single semester at 
+                Utah Valley University and have earned an associates in the science of Mathematics. Currently I am about to begin the process
+                of getting a job as a developer once this week is over. I want to give a special thanks to all of the teachers at U of U who 
+                have supported me on this journey.
             </p>
         </section>
     );

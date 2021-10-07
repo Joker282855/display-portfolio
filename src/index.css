@@ -58,6 +58,11 @@ header nav ul li a:hover {
   text-shadow: none;
   border-radius: 15px;
 }
+img {
+  display: flex;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+}
 .style-nav-active {
   color:blueviolet;
 }
