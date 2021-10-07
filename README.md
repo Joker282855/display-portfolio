@@ -38,5 +38,5 @@ The future development of this application will be going over the styling. I sti
 ## Link:
 <a href="https://joker282855.github.io/display-portfolio/">Application Link</a>
 
-## Contributor:
+## Contributors:
 Made with Love By Josh Jackson
