@@ -67,6 +67,9 @@ textarea {
 	border: 3px solid #cccccc;
 	padding: 5px;
 }
+.paste {
+  margin-top: 15px;
+}
 .style-nav-active {
   color:blueviolet;
 }

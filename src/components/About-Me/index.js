@@ -8,7 +8,7 @@ function About() {
             <img src={selfPortrait} className="my-2" style={{ width: "20%" }} alt="Myself in a blue suit" />
             <br></br>
             <h1 id="about">About Me</h1>
-            <p>I was born and raised in Provo, Utah. I have four older brothers and one older sister
+            <p class="paste">I was born and raised in Provo, Utah. I have four older brothers and one older sister
                 which makes me the youngest member in my family. All of my siblings are married and 
                 live in different states. I have twenty three nieceis and newphes in total with one 
                 more on the way. 
