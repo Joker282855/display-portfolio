@@ -153,11 +153,21 @@ header nav ul li a:focus {
 }
 .resume {
   height: 450px;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .resume h2 {
   text-align: center;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   font-family: Arial, Helvetica, sans-serif;
+}
+.hire {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 footer div a {
   color:white;
