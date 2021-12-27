@@ -227,14 +227,16 @@ footer {
       font-size: 3.15vw;
   }
   .list ul li {
-      display: inline-block;
-      font-size: 1.10vw;
+      font-size: 3.00vw;
   }
   .picture {
       display: inline-block;
   }
   .me img {
-      width: 200px;
-      height: 180px;
+      width: 80%;
+      height: 350px;
+  }
+  .me {
+    height: 900px;
   }
 } 
