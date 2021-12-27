@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
     return (
         <footer>
-        <div>
+        <div className="link">
           <a href="https://github.com/Joker282855">Github</a>
           <br></br>
           <a href="https://www.linkedin.com/feed/">LinkedIn</a>

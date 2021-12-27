@@ -58,32 +58,8 @@ header nav ul li a:hover {
   text-shadow: none;
   border-radius: 15px;
 }
-footer a {
-  text-decoration: none;
-}
-textarea {
-	width: 600px;
-	height: 120px;
-	border: 3px solid #cccccc;
-	padding: 5px;
-}
-.about {
-  margin-top: 20px;
-}
-.paste {
-  margin-top: 15px;
-}
-.style-nav-active {
-  color:blueviolet;
-}
-.con-nave-active {
-  color:blueviolet;
-}
-.port-nav-active {
-  color:blueviolet;
-}
-.res-nav-active {
-  color:blueviolet;
+header nav ul li a:focus {
+  color: var(--cyan);
 }
 .me {
   width: 100%;
@@ -168,12 +144,14 @@ textarea {
   font-size: 16px;
 }
 footer {
-  color: var(--blue);
-  background-color: var(--light);
-  margin: 25px 0;
+  color: var(--light);
+  background-color: var(--dark);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;  
+}
+footer a {
+  text-decoration: none;
 }
 @media screen and (max-width: 768px) {
 .contact {
@@ -220,7 +198,7 @@ footer {
       display: inline-block;
   }
   .me img {
-      width: 40%px;
-      height: 20%;
+      width: 200px;
+      height: 180px;
   }
 } 
