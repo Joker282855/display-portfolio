@@ -9,7 +9,7 @@ function Header() {
     return (
     <Router>
         <header>
-            <h1>Joshua</h1>
+            <h1>Joshua Jackson</h1>
             <nav>
                 <ul>
                     <li className="mx-2">
