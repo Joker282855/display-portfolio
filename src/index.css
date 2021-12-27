@@ -210,6 +210,11 @@ footer {
   .resume {
     height: 850px;
   }
+  .modified {
+    width: 90%;
+    height: 400px;
+    margin-left: 35px;
+  }
 }   
 @media screen and (max-width: 575px) {
   header {
@@ -238,5 +243,10 @@ footer {
   }
   .me {
     height: 900px;
+  }
+  .modified {
+    width: 95%;
+    height: 300px;
+    margin-right: 80px;
   }
 } 
