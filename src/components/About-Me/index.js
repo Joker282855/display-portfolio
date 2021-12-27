@@ -8,9 +8,9 @@ function About() {
             <div className="info">
                <h2>About Me</h2>
                <p>
-                   I was born and raised in Provo, Utah. I have four older brothers and one older sister
-                   which makes me the youngest memeber in my family all of my siblings are married and 
-                   live in different states. I have twenty four niecies and nepehws in total.
+                   I was born and raised in Provo, Utah. I have four older brothers and one older sister.
+                   All of my siblings are married and live in different states. I have twenty four niecies 
+                   and nepehws in total.
                </p>
                <br></br>
                <p>
@@ -18,7 +18,7 @@ function About() {
                    the University of Utah after completing a six month coding bootcamp. Skilled in using
                    Sequelize, Node.js, Express.js, Mongoose, and CRUD operations to create databases for
                    different types of applications. My passion to use my skills to create user responsive
-                   and intuitive designs makes me a valuable addition to any company
+                   and intuitive designs makes me a valuable addition to any company.
                </p>
             </div>
         </section>

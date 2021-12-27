@@ -6,7 +6,7 @@ function Contact() {
             <h2>Contact Information</h2>
             <div className="list">
                 <p>
-                    The best way to contact me would be to call my phone or my email. When you call my phone please leave a message
+                    The best way to contact me would be to call my phone or send me an email. When you call my phone please leave a message
                     with your name and the reason why you are calling. I will call you back as soon as possible. I check my email 
                     on a daily basis which means I will reply on the same day i recieve it or one day later. 
                 </p>
