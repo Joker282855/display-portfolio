@@ -80,12 +80,23 @@ header nav ul li a:focus {
   height: 450px;
 }
 .contact h2 {
-  margin-top: 15px;
+  margin-top: 20px;
+  margin-bottom: 15px;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
-.list ul a
+.list p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.list ul li {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
 .list ul li:hover {
   color: var(--blue);
 }
@@ -127,6 +138,11 @@ header nav ul li a:focus {
 .me p:first-letter {
   color: var(--blue);
   font-size: 16px;
+}
+footer div a {
+  color:white;
+  text-decoration: none;
+  text-align: center;
 }
 footer {
   color: var(--light);
