@@ -2,23 +2,16 @@ import React from 'react';
 
 function Resume() {
     return (
-        <section className="my-5">
-            <br></br>
-            <a href="https://resume.io/r/vj9wVSNZ4">Link To Resume</a>
-            <br></br>
-            <h1>Proficency List:</h1>
+        <section className="resume">
+            <div>
+                <h2>Reusme Link</h2>
+                <a href="https://docs.google.com/document/d/1FDlKcgLR8NDt8x01yYhj_GmXnxWnFj9QAAbUD9ybGwo/edit">Link To Resume</a>
+            </div>
+            <div>
+                <h2>Proficency List:</h2>
                 <ul>
                     <li>
-                        Mathematics
-                    </li>
-                    <li>
-                        HTML
-                    </li>
-                    <li>
                         Node.js
-                    </li>
-                    <li>
-                        Heroku
                     </li>
                     <li>
                         MSQL
@@ -36,6 +29,7 @@ function Resume() {
                         Javascript
                     </li>
                 </ul>
+            </div>
         </section>
     );
 }

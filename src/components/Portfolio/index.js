@@ -31,15 +31,19 @@ function Portfolio() {
                 <li>
                     <a href="https://github.com/mikeysoar/project-1">Project 1 Repository</a>
                 </li>
+                <br></br>
                 <li>
                     <a href="https://github.com/JHardisty333/automatic-potato">Project 2 Repository</a>
                 </li>
+                <br></br>
                 <li>
                     <a href="https://github.com/Luke-Munoz/recipeBook">Project 3 Repostiory</a>
                 </li>
+                <br></br>
                 <li>
                     <a href="https://github.com/Joker282855/Portfolio">Original Portfolio Repository</a>
                 </li>
+                <br></br>
                 <li>
                     <a href="https://github.com/Joker282855/blogger-tech">Tech Blog Repository</a>
                 </li>
