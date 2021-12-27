@@ -10,7 +10,7 @@ function About() {
                <p>
                    I was born and raised in Provo, Utah. I have four older brothers and one older sister
                    which makes me the youngest memeber in my family all of my siblings are married and 
-                   live in different states. I have twenty four niecies and nephws in total.
+                   live in different states. I have twenty four niecies and nepehws in total.
                </p>
                <br></br>
                <p>
