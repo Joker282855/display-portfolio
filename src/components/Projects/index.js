@@ -10,17 +10,38 @@ function Projects() {
                         for a songs made by any artists which helps them remeber songs they can't remeber. 
                     </li>
                     <li>
-                        Concepts/Technologies Used: The initial concept was to give allow our user to find songs that fit their mood. We were on our way to accomplishing this goal with our
+                        Concepts/Technologies Used: The initial concept was to give allow our user to find songs that fit his or hers mood. We were on our way to accomplishing this goal with our
                         application before complications made us change course. The complications that arose were having two group members not being able to push commits to our github 
                         repostiory and one group member not having time to work on the website. We decided to have our website be a music finder and random music story generator due to
                         these complications. The design concept we used was user responsive design. 
-                        Technologies Used: Visual Studio Code, Github, HTML, CSS, and Fetch Requests 
+                        Technologies Used: Visual Studio Code, Github, HTML, CSS, and Fetch Requests. 
                     </li>
                 </ul>
             <h2>Project 2</h2>
                 <ul>
                     <li>
-                        Problem Addressed: Teachers have to post mateirals for their students to use in multiple spots on their schools
+                        Problem Addressed: Teachers have the responsibility of teaching multiple groups of kids each day. Posting homework or materials for every single period he or she
+                        teaches can be time consuming. Our application makes it possible for teachers to post homework or materials for all of the periods they teach in a single place. 
+                        This cuts down on the time a teachers spends posting materials online and gives them more time to help students that are struggling in class. 
+                    </li>
+                    <li>
+                        Concepts Used: The concept for the project was to have an application where teachers can post materials their students can use for assignments and interact with
+                        thier students through the use of comments. We were able to give our application the ability to have articles posted to it but, the comment section still has some
+                        errors that need to be worked out. The coding concepts we used in our design of the application were Restful Api, MVC Framework, CRUD operations, and User 
+                        Responsive design. 
+                        Technologies Used: Visual Studio Code, Insomnia, Node.js, Express.js, MySQL, and Seuelize.
+                    </li>
+                    <li>
+                        Sample Guest Account:
+                        Username: #1trainer
+                        Email: Cyndaquilexplosion@gmail.com
+                        Password: Evolutionstones23@
+                    </li>
+                </ul>
+            <h2>Project 3</h2>
+                <ul>
+                    <li>
+                        
                     </li>
                 </ul>
         </section>
