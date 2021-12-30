@@ -6,11 +6,11 @@ function Projects() {
             <h2>Project 1</h2>
                 <ul>
                     <li>
-                        Problem Addressed: There are times where people can not remeber the artists of a particular song they are trying to remember. Our applications allows users to search
-                        for a songs made by any artists which helps them remeber songs they can't remeber. 
+                        Problem Addressed: There are times where people can not remember which artist wrote a particular song. Our application addresses this problem by giving the user
+                        the capability to search for songs written by any artist. 
                     </li>
                     <li>
-                        Concepts/Technologies Used: The initial concept was to give allow our user to find songs that fit his or hers mood. We were on our way to accomplishing this goal with our
+                        Concepts/Technologies Used: The initial concept was to give our user to find songs that fit his or her mood. We were on our way to accomplishing this goal with our
                         application before complications made us change course. The complications that arose were having two group members not being able to push commits to our github 
                         repostiory and one group member not having time to work on the website. We decided to have our website be a music finder and random music story generator due to
                         these complications. The design concept we used was user responsive design. 
@@ -44,7 +44,7 @@ function Projects() {
             <h2>Project 3</h2>
                 <ul>
                     <li>
-                        Problem Addressed: People often try different foods that they instantly fall in love but, dont know the recipte to make the dish they have liked so much. Our 
+                        Problem Addressed: People often try different foods that they instantly fall in love with but, dont know the recipte to make the dish they have liked so much. Our 
                         application is a food blog where users can post recipes for food they really enjoy. In conclusion, this blog solves the problem of people not knowing 
                         recpites for food they really enjoyed by giving he or she a blog where the food is listed. 
                     </li>
