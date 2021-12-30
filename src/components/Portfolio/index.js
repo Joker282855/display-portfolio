@@ -23,7 +23,7 @@ function Portfolio() {
                     <img title="Original Portfolio" src={original} alt="Original Portfolio" className="picture" />
                 </a>
                 <a href="https://immense-lake-76806.herokuapp.com/">
-                    <img title="Tech Blog" src={blog} alt="Tech Blog" className="picture" />
+                    <img title="Developer Blog" src={blog} alt="Tech Blog" className="picture" />
                 </a>
             </div>
             <div className="links">
