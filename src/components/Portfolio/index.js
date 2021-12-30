@@ -45,7 +45,7 @@ function Portfolio() {
                 </li>
                 <br></br>
                 <li>
-                    <a href="https://github.com/Joker282855/blogger-tech">Tech Blog Repository</a>
+                    <a href="https://github.com/Joker282855/blogger-tech">Developer Blog Repository</a>
                 </li>
             </div>
         </section>
