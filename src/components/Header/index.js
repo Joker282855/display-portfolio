@@ -4,6 +4,7 @@ import About from '../About-Me';
 import ContactForm from '../Contact';
 import Portfolio from '../Portfolio';
 import Resume from '../Resume';
+import Projects from '../Projects';
 
 function Header() {
     return (
@@ -32,6 +33,11 @@ function Header() {
                             Resume
                         </NavLink>
                     </li>
+                    <li>
+                        <NavLink to='/projects-summarized' className="pro-nave" activeClassName="pro-nav-active">
+                            Projects Summarized
+                        </NavLink>
+                    </li>
                 </ul>
             </nav>
         </header>
@@ -50,6 +56,10 @@ function Header() {
 
             <Route path='/resume'>
                 <Resume></Resume>
+            </Route>
+
+            <Route path='/projects-summarized'>
+                <Projects></Projects>
             </Route>
         </Switch>
     </Router>
