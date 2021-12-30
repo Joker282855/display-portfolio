@@ -231,6 +231,9 @@ footer {
     height: 400px;
     margin-left: 35px;
   }
+  .description {
+    height: 1300px;
+  }
 }   
 @media screen and (max-width: 575px) {
   header {
@@ -264,5 +267,8 @@ footer {
     width: 95%;
     height: 300px;
     margin-right: 80px;
+  }
+  .description {
+    height: 2050px;
   }
 } 
