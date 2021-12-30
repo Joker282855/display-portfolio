@@ -41,7 +41,25 @@ function Projects() {
             <h2>Project 3</h2>
                 <ul>
                     <li>
-                        
+                        Problem Addressed: People often try different foods that they instantly fall in love but, dont know the recipte to make the dish they have liked so much. Our 
+                        application is a food blog where users can post recipes for food they really enjoy. In conclusion, this blog solves the problem of people not knowing 
+                        recpites for food they really enjoyed by giving he or she a blog where the food is listed. 
+                    </li>
+                    <li>
+                        Concepts Used: The design concepts we used were Restful Api, CRUD Operations, MVC Framework, and User Responsive Design  
+                        Technologies Used: Insomnia, Visual Studio Code, Github, Mongoose, and MongooseAtlasDB
+                    </li>
+                    <li>
+                        Sample Guest Account:
+                        Username: NikePro12
+                        Email: jazz44gmail@gmail.com
+                        Password: Court34$gmailscom
+                    </li>
+                </ul>
+            <h2>Original Portfolio</h2>
+                <ul>
+                    <li>
+                        Problem Addressed: 
                     </li>
                 </ul>
         </section>
