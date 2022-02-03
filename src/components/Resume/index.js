@@ -17,7 +17,7 @@ function Resume() {
                     </li>
                     <br></br>
                     <li>
-                        MSQL
+                        MySQL
                     </li>
                     <br></br>
                     <li>
