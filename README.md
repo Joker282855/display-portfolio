@@ -3,7 +3,7 @@ React Portfolio
 
 ## Description:
 This challenge was to create a portfolio using our skills with the react library. We had to make sure to use alternate pages or components to move around the different pages 
-that make up the portfolio. The pages were all had details that will be used to helpl secure future jobs. 
+that make up the portfolio. The pages all had details that will be used to helpl secure future jobs. 
 
 ## Table of Contents:
 *[Tasks](#tasks)
@@ -27,7 +27,7 @@ that make up the portfolio. The pages were all had details that will be used to 
 11. The footer has links to three other platforms such as Github, LinkedIn and Twitter
 
 ## Achievement:
-I was able to achieve the majority of the tasks besides one with the mouse moving away from the input filed. What helped me complete these tasks was from finding video tutorials on how to create a link between other pages and how to the links highlighted. Reviewing the module also helped me alot when I was first learning the terms associated with react.
+I was able to achieve the majority of the tasks besides one with the mouse moving away from the input filed. What helped me complete these tasks was from finding video tutorials on how to create a link between other pages and how to have the links highlighted. Reviewing the module also helped me alot when I was first learning the terms associated with react.
 
 ## Future:
 The future development of this application will be going over the styling. I still have two assingments to turn in before my extension ends on Sunday for the boootcamp. I would also like to attempt getting the icons on the portfolio.
