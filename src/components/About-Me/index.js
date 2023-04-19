@@ -8,17 +8,21 @@ function About() {
             <div className="info">
                <h2>About Me</h2>
                <p>
-                   I was born and raised in Provo, Utah. I have four older brothers and one older sister.
-                   All of my siblings are married and live in different states. I have twenty four niecies 
-                   and nepehws in total.
+                   I earned my Assocaites degree in Mathematics from Utah Valler Universiy while I was 
+                   student teaching in 2021. Student teaching did not work out which made me switch 
+                   career paths towards the coding filed. I attended a Full Stack Web Development 
+                   Bootcamp at Utah University where I earned my professional certificate in Full Stack 
+                   Web Development. After graduating the Bootcamp I went back to Utah Valley University
+                   and earned my Bachelors Degree in University studies.
+
                </p>
                <br></br>
                <p>
-                   I am a Full Stack Developer who emphasizes in Back End Development. I am certified through
-                   the University of Utah after completing a six month coding bootcamp. Skilled in using
-                   Sequelize, Node.js, Express.js, Mongoose, and CRUD operations to create databases for
-                   different types of applications. My passion to use my skills to create user responsive
-                   and intuitive designs makes me a valuable addition to any company.
+                   My career goal is to get hired as a junior Back End Web Developer. 
+                   To accomplish this I am currently working at Amazon with the aim to
+                   enroll in there Career Choice program which allows its employees to 
+                   continue their education. I will utilize that to continue my education
+                   in coding and seek out a coding job with Amazon.
                </p>
             </div>
         </section>
